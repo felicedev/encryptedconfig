@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="encryptedconfig",
-    version="1.0.0",
+    version="0.1.0",
     description="Encrypted configuration manager supporting multiple formats.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

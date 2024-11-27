@@ -1,1 +1,6 @@
 /.idea/
+*.json
+*.yaml
+*.yml
+*.txt
+*.ini

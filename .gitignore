@@ -4,3 +4,6 @@
 *.yml
 *.txt
 *.ini
+/build/
+/dist/
+/encryptedconfig.egg-info/PKG-INFO

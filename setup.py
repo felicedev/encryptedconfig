@@ -7,7 +7,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="FeliceDev",
-    author_email="email@felicedev.com",
+    author_email="felicedev@outlook.com",
     url="https://github.com/felicedev/encryptedconfig",
     packages=find_packages(),
     install_requires=[
